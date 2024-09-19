@@ -62,6 +62,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>github-actions-ci-cd-docker-hub</finalName>
     </build>
 
 </project>
